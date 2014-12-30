@@ -1,0 +1,22 @@
+.profile-pic{
+    height:320px;
+    width:320px;
+    overflow:hidden;
+    border-radius:50%;
+    position:relative;
+    margin:0 auto;
+}
+
+.column-center{
+/*    float:none;
+    margin:0 auto;*/
+}
+
+.full-name{
+    margin-left:auto;
+}
+
+#rk-picture{
+    margin-left:-65px;
+    margin-top:-10px;
+}
