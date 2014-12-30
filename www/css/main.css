@@ -1,3 +1,30 @@
+html{
+    height:100%;
+}
+body{
+    height:100%
+    margin:0;
+
+/*    background-image: -webkit-linear-gradient(#8A8A8A,#F0F0F0);
+    background: -o-linear-gradient(#8A8A8A,#F0F0F0);
+    background: -moz-linear-gradient(#8A8A8A,#F0F0F0);
+    background: linear-gradient(#8A8A8A,#F0F0F0);*/
+}
+
+#top-page{
+    background: url("http://www.puppiesandflowers.com/wpbeta/wp-content/uploads/2009/06/JanLeonardoWollert1.jpg");
+    width:100%;
+}
+/*
+.background{
+    height:100px;
+    position:absolute;
+    z-index: -10;
+    background-image: -webkit-linear-gradient(#8A8A8A,#F0F0F0);
+    background-image: -o-linear-gradient(#8A8A8A,#F0F0F0);
+    background-image: -mos-linear-gradient(#8A8A8A,#F0F0F0);
+    background-image: linear-gradient(#8A8A8A,#F0F0F0);
+}*/
 .profile-pic{
     height:320px;
     width:320px;
@@ -14,6 +41,16 @@
 
 .full-name{
     margin-left:auto;
+}
+
+.navbar .navbar-nav{
+    display: inline-block;
+    float:none;
+    vertical-align: top;
+}
+
+.center-text{
+    text-align: center;
 }
 
 #rk-picture{
